@@ -183,7 +183,7 @@ you prefer). You should see the following in the terminal:
 ```console
 $ python server/werkzeug_app.py
 # => WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
-# => * Running on http://localhost:5555/ (Press CTRL+C to quit)
+# => * Running on http://localhost:5555/ (Press CTRL+C to quit)c
 ```
 
 Go to `localhost:5555` and you should see the following:
